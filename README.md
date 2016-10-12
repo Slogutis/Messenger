@@ -1,2 +1,2 @@
 # Messenger
-Messenger+ for Facebook Messenger+
+Messenger+ for Facebook Messenger
