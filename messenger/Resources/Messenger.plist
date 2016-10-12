@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+ <key>cell</key>
+			<string>PSGroupCell</string>
+			<key>headerCellClass</key>
+			<string>MessengerHeader</string>
+		</dict>
+		<dict>
+		<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k1</string>
+			<key>label</key>
+			<string>Enable LogOut</string>
+		</dict>
+		<dict>
+ <key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+<key>icon</key>
+<string>icon.png</string>
+			<key>key</key>
+			<string>k2</string>
+			<key>label</key>
+			<string>Full Screen</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+<key>icon</key>
+<string>icon.png</string>
+			<key>key</key>
+			<string>k3</string>
+			<key>label</key>
+			<string>Black Keyboard</string>
+		</dict>
+	 <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k4</string>
+			<key>label</key>
+			<string>Send HD Photos</string>
+		</dict>
+	 <dict>
+	 <key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k10</string>
+			<key>label</key>
+			<string>Send Messages with Flowers</string>
+		</dict>
+	 <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k9</string>
+			<key>label</key>
+			<string>Disable Typing</string>
+	 </dict>
+	 <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k11</string>
+			<key>label</key>
+			<string>Disable invite to Messager </string>
+</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k7</string>
+			<key>label</key>
+			<string>Disable Read Receipts</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k5</string>
+			<key>label</key>
+			<string>internal Settings</string>
+		</dict>
+		<dict>
+	<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k6</string>
+			<key>label</key>
+			<string>Unlimited Photos</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Messenger+</string>
+		</dict>
+		<dict>
+	<key>cell</key>
+	<string>PSButtonCell</string>
+	<key>label</key>
+	<string>apply changes</string>
+	<key>action</key>
+	<string>apply</string>
+	 </dict>
+	</array>
+	<key>title</key>
+	<string>Messenger+</string>
+</dict>
+</plist>

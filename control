@@ -1,0 +1,9 @@
+Package: com.aboghzayel.com
+Name: Messenger+
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: FB Messenger+!
+Maintainer: Mohammad Ghzayel
+Author: Mohammad Ghzayel
+Section: Tweaks
